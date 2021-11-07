@@ -7,7 +7,7 @@ package org.bukkit;
  * MineCraft itself! There is no guarantee the sounds will play. There is no
  * guarantee values will not be removed from this Enum. As such, you should
  * not depend on the ordinal values of this class.
- *
+ */
 public enum Sound {
     AMBIENCE_CAVE,
     AMBIENCE_RAIN,
